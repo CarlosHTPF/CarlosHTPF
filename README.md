@@ -28,8 +28,4 @@ Bem-Vindo(a) ao meu Portifolio do GitHub !!
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carloshtempass@gmail.com)
 
 
-### 📊 - Estatísticas do GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosHTPF&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
 #### Obrigado por visitar o meu perfil! 😊
