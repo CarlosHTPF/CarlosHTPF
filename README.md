@@ -58,18 +58,4 @@ Website institucional desenvolvido com foco em design responsivo e fortaleciment
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosHTPF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHTPF&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=CarlosHTPF&theme=dark&hide_border=true"/>
-</p>
-
-
-
-
 ✨ Obrigado por visitar meu perfil!
