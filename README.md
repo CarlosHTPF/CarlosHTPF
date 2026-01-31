@@ -2,6 +2,10 @@
 
 Bem-vindo(a) ao meu **Portfólio do GitHub** 🚀  
 
+🚀 **Meu portfólio online está disponível no link abaixo:**
+
+👉 **https://portifolio-chi-beryl-19.vercel.app/**
+
 ---
 
 ## 🚀 Sobre mim
