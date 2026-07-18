@@ -1,65 +1,77 @@
-# 👋 Olá, tudo bem? Eu sou Carlos Henrique (CarlosHTPF)
+# 👋 Olá, tudo bem? Eu sou Carlos Henrique
 
-Bem-vindo(a) ao meu **Portfólio do GitHub** 🚀  
+Bem-vindo(a) ao meu perfil no GitHub! 🚀
 
-🚀 **Meu portfólio online está disponível no link abaixo:**
+Sou desenvolvedor fullstack em formação, apaixonado por tecnologia, resolução de problemas e por criar soluções práticas com código.
 
-👉 **[My portfolio Web](https://portifolio-nine-lake-33.vercel.app/)**
+🌐 Meu portfólio online:
+👉 https://portifolio-nine-lake-33.vercel.app/
 
 ---
 
 ## 🚀 Sobre mim
-- 👨‍💻 **Desenvolvedor Fullstack em formação**, apaixonado por tecnologia e resolução de problemas  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **PUCRS**  
-  *(jan/2025 – jul/2027)*  
-- 💼 Atuo como **Consultor Projetista Jr.** na empresa **M D Móveis**  
-- 📚 Em constante evolução em **boas práticas, arquitetura de software e novas tecnologias**
+
+- 💻 Desenvolvedor Fullstack em formação
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUCRS
+- 🛠️ Interesse em frontend, backend, APIs, bancos de dados e boas práticas
+- 📚 Sempre estudando e evoluindo na área de tecnologia
 
 ---
 
 ## 🛠️ Hard Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌐 Minhas redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-tem-pass-finger-892001196/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Coca_FPS/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosHTPF)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carloshtempass@gmail.com)
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+- Node.js
+- APIs REST
+- Git e GitHub
+- Docker
+- Python
 
 ---
 
 ## 📂 Projetos
 
 ### 🐳 Arquitetura de Microsserviços com Docker
-Arquitetura baseada em microsserviços utilizando containers, balanceamento de carga e boas práticas DevOps.  
-**Tecnologias:** Docker, Docker Compose, Nginx, Linux  
-🔗 Repositório: https://github.com/CarlosHTPF/toshiro-shibakita
+Projeto com foco em arquitetura baseada em microsserviços, containers, balanceamento de carga e boas práticas DevOps.
 
----
+- Tecnologias: Docker, Docker Compose, Nginx, Linux
+- Repositório: https://github.com/CarlosHTPF/toshiro-shibakita
 
 ### 📊 Análise de Salários
-Projeto voltado para análise e visualização de dados salariais, com cálculo de médias, identificação de padrões e geração de gráficos.  
-**Tecnologias:** Python, Pandas, Matplotlib  
-🔗 Repositório: https://github.com/CarlosHTPF/Dados-python
+Projeto voltado para análise e visualização de dados salariais, com cálculo de médias, identificação de padrões e geração de gráficos.
 
----
+- Tecnologias: Python, Pandas, Matplotlib
+- Repositório: https://github.com/CarlosHTPF/Dados-python
 
 ### 💈 Site Institucional – Shelby Barbearia
-Website institucional desenvolvido com foco em design responsivo e fortalecimento da presença digital de pequenos negócios.  
-**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript  
-🔗 Repositório: https://github.com/CarlosHTPF/barbearia-shelby-frontend
+Website institucional desenvolvido com foco em design responsivo e fortalecimento da presença digital de pequenos negócios.
+
+- Tecnologias: HTML5, CSS3, Bootstrap, JavaScript
+- Repositório: https://github.com/CarlosHTPF/barbearia-shelby-frontend
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+## 🌐 Redes e contato
+
+- LinkedIn: https://www.linkedin.com/in/carlos-henrique-tem-pass-finger-892001196/
+- GitHub: https://github.com/CarlosHTPF
+- Discord: https://discord.com/channels/@Coca_FPS/
+- E-mail: carloshtempass@gmail.com
+
+---
+
+## 📊 GitHub
+
+![GitHub](https://img.shields.io/badge/GitHub-CarlosHTPF-181717?logo=github&style=for-the-badge)
+![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarlosHTPF&style=for-the-badge&color=blue)
+![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarlosHTPF&style=for-the-badge&color=green)
+![Top Language](https://img.shields.io/github/languages/top/CarlosHTPF/Portifolio?style=for-the-badge&color=yellow)
+---
+
+## ✨ Mensagem final
+
+Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades, projetos e colaborações.
