@@ -10,7 +10,7 @@ Sou desenvolvedor fullstack em formação, apaixonado por tecnologia, resoluçã
 ---
 
 ## 🚀 Sobre mim
-
+- 👉 Conta [corporativa](https://github.com/Carlos-finger)
 - 💻 Desenvolvedor Fullstack em formação
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUCRS
 - 🛠️ Interesse em frontend, backend, APIs, bancos de dados e boas práticas
